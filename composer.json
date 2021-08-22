@@ -1,0 +1,18 @@
+{
+    "name": "tai/calculator",
+    "description": "This is demo package will do some calculations",
+    "autoload": {
+        "psr-4": {
+            "Tai\\Calculator\\": "packages/taitien/calculator/src/",
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shiro",
+            "email": "tientai206@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
