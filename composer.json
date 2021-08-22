@@ -1,16 +1,16 @@
 {
-    "name": "tai/calculator",
+    "name": "superhiro/calculator",
     "description": "This is demo package will do some calculations",
     "autoload": {
         "psr-4": {
-            "Tai\\Calculator\\": "packages/taitien/calculator/src/",
+            "Tai\\Calculator\\": "src/",
             "App\\": "app/"
         }
     },
     "authors": [
         {
             "name": "Shiro",
-            "email": "tientai206@gmail.com"
+            "email": "superhirodev@gmail.com"
         }
     ],
     "minimum-stability": "dev",
